@@ -1,0 +1,28 @@
+.container{
+    height: 280px;
+    width: 600px;
+    margin: 50px auto;
+    padding-top: 20px;
+}
+.display{
+    display: flex;
+    width: 100%;
+}
+.displayHeader{
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.displayBody{
+    height: 30px;
+    width: 80%;
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+}
+textarea{
+    resize: none;
+}
+.red{
+    border: 1px solid red;
+}
